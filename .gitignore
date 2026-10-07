@@ -1,0 +1,14 @@
+build*/
+cmake-build-*/
+.idea/
+.vscode/
+.vs/
+.cache/
+compile_commands.json
+CMakeSettings.json
+CMakeLists.txt.user
+__pycache__/
+.venv/
+*.o
+*.a
+*.exe
